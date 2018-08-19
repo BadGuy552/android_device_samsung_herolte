@@ -14,7 +14,10 @@
     {
         "repository": "android_hardware_samsung_slsi-cm_exynos8890",
         "target_path": "hardware/samsung_slsi-cm/exynos8890"
+    },
+    {
+        "repository": "android_hardware_samsung_slsi-cm_exynos",
+        "target_path": "hardware/samsung_slsi-cm/exynos"
     }
-
 ]
 
