@@ -1,0 +1,3 @@
+add_lunch_combo pixys_herolte-eng
+add_lunch_combo pixys_herolte-userdebug
+add_lunch_combo pixys_herolte-user
