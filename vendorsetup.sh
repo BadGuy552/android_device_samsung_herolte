@@ -1,0 +1,3 @@
+add_lunch_combo cos_herolte-eng
+add_lunch_combo cos_herolte-userdebug
+add_lunch_combo cos_herolte-user
